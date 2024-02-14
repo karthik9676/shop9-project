@@ -1,0 +1,10 @@
+
+.cart_title{
+    font-size: 2rem;
+}
+
+.order_box{
+    padding: 10px 50px;
+    text-align: center;
+    background-color: rgb(248, 233, 233);
+}

@@ -1,0 +1,19 @@
+
+
+.single_name{
+    font-size: 2.8rem;
+}
+
+.single_rating{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.description_content{
+    font-size: 1.8rem;
+    text-align: justify;
+}
+
+.single_small{
+    font-size: 1.8rem;
+}

@@ -1,0 +1,17 @@
+
+.feature_box{
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.image{
+    width: 200px;
+    border-radius: 5px;
+}
+
+/* .feature_box:hover{
+    box-shadow: 0px 0px 1px purple;
+} */
+

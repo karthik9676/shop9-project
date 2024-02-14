@@ -1,0 +1,47 @@
+
+.category_title{
+    font-size: 2.4rem;
+}
+
+.category_btn{
+    outline: none;
+    border: none;
+    background-color: white;
+    font-size: 1.9rem;
+    margin: 2px;
+    font-weight: 400;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-family: "Roboto";
+}
+
+.category_btn:hover{
+    color: orange;
+    font-weight: 600;
+}
+
+.company_title{
+    font-size: 2.4rem;
+    margin-bottom: 10px;
+}
+
+.company_select{
+    font-size: 1.8rem;
+}
+
+.colors_title{
+    font-size: 2.4rem;
+    padding-top: 10px;
+}
+
+.price_title{
+    font-size: 2.4rem;
+}
+
+.range_filter{
+    font-size: 1.8rem;
+}
+
+.clear_btn{
+    font-size: 1.8rem;
+}

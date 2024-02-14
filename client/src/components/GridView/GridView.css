@@ -1,0 +1,25 @@
+
+.grid_box{
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.grid_image{
+    width: 150px;
+    height: 150px;
+}
+
+.grid_box:hover{
+    box-shadow: 0px 0px  3px black;
+    border-radius: 5px;
+}
+
+.grid_name{
+    font-size: 1.8rem;
+}
+
+.grid_price{
+    font-size: 1.8rem;
+}
